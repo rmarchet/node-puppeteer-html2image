@@ -1,0 +1,32 @@
+{
+  "name": "puppeteer-html2image",
+  "version": "1.0.0",
+  "description": "Simple script useful to create a PNG from an HTML using Puppeteer",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rmarchet/node-puppeteer-html2image.git"
+  },
+  "keywords": [
+    "node",
+    "puppeteer",
+    "html",
+    "png",
+    "thumbnail",
+    "preview"
+  ],
+  "dependencies": {
+    "puppeteer": "^1.4.0"
+  },
+  "author": "Roberto Marchetti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rmarchet/node-puppeteer-html2image/issues"
+  },
+  "homepage": "https://github.com/rmarchet/node-puppeteer-html2image"
+}
