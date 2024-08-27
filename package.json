@@ -1,6 +1,6 @@
 {
   "name": "puppeteer-html2image",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple script useful to create a PNG from an HTML using Puppeteer",
   "main": "index.js",
   "bin": "index.js",
@@ -21,7 +21,7 @@
     "preview"
   ],
   "dependencies": {
-    "puppeteer": "^1.4.0"
+    "puppeteer": "^23.2.0"
   },
   "author": "Roberto Marchetti",
   "license": "MIT",
